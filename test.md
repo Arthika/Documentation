@@ -13,31 +13,10 @@
                 "usedmargin": 2499.773772, "freemargin": -2490.724653
               },
 
-"assetposition": [
-              { "account": "AC1",
-                "asset": "EUR",
-                "exposure": 0.000000,
-                "totalrisk": 100000.000000,
-                "pl": 100000.000000 },
-
-              { "account": "<AGGREGATED>",
-                "asset": "EUR",
-                "exposure": 0.000000,
-                "totalrisk": 100000.000000,
-                "pl": 100000.000000 },
-
-              { "account": "AC1",
-                "asset": "USD",
-                "exposure": 21.000000,
-                "totalrisk": -110498.000000,
-                "pl": -103285.242458 },
-
-              { "account": "<AGGREGATED>",
-                "asset": "USD",
-                "exposure": 21.000000,
-                "totalrisk": -110498.000000,
-                "pl": -103285.242458 } ],
-
+"assetposition": [ { "asset": "EUR", "exposure": 0.000000,"totalrisk": 100000.000000, "pl": 100000.000000 },
+                   { "asset": "USD", "exposure": 21.000000, "totalrisk": -110498.000000,  "pl": -103285.242458 }
+                 ],
+      
 "securityposition": [
               { "account": "AC1",
                 "security": "EUR_USD",

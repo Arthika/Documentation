@@ -4,10 +4,12 @@
           { "security": "EUR_USD", "price": 1.105690, "pips": 5, "liquidity": 1000000, "side": "bid" }
         ],
 
-"order": [ { "tempid": 190, "orderid": "TRD_20151027132551451_0126", "fixid": "TRD_20151027132551451_0126", "commcurrency": "USD",
-             "account": "AC1", "security": "EUR_USD", "pips": 5, "quantity": 100000, "side": "buy", "type": "market",
-             "finishedprice": 1.105090, "finishedquantity": 100000, "commission": 15.000000, "priceatstart": 1.105090,
-             "userparam": 0, "status": "executed" } ],
+"order": [ { "tempid": 190, "orderid": "TRD_20151027132551451_0126", "fixid": "TRD_20151027132551451_0126",
+             "commcurrency": "USD", "commission": 15.000000,
+             "security": "EUR_USD", "pips": 5, "quantity": 100000, "side": "buy", "type": "market",
+             "finishedprice": 1.105090, "finishedquantity": 100000,  "priceatstart": 1.105090,
+             "status": "executed" }
+         ],
 
 "accounting": { "m2mcurrency": "EUR", "strategyPL": 9.049119, "totalequity": 9.049119,
                 "usedmargin": 2499.773772, "freemargin": -2490.724653

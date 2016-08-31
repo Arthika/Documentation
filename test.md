@@ -19,8 +19,8 @@
                    { "asset": "USD", "exposure": 21.000000, "totalrisk": -110498.000000,  "pl": -103285.242458 }
                  ],
       
-"securityposition": [ { "security": "EUR_USD", "exposure": 100000.000000, "side": "buy", "price": 1.105190, "pips": 5,
-                "pl": -12.348273 },
+"securityposition": [ { "security": "EUR_USD", "exposure": 100000.000000, "side": "buy",
+                        "price": 1.105190, "pips": 5, "pl": -12.348273 }
                     ],
 
 "timestamp": "1445952273.659753" }

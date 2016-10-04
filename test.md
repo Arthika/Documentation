@@ -1,5 +1,6 @@
 ## mtick.json, API 2.0 
 ```json
+"mtick"{
 "tick": [ { "security": "EUR_USD", "price": 1.105780, "pips": 5, "liquidity": 5000000, "side": "ask" },
           { "security": "EUR_USD", "price": 1.105690, "pips": 5, "liquidity": 1000000, "side": "bid" }],
 
@@ -14,12 +15,11 @@
 
 "assetposition": [ { "asset": "EUR", "exposure": 0.000000,"totalrisk": 100000.000000, "pl": 100000.000000 },
                    { "asset": "USD", "exposure": 21.000000, "totalrisk": -110498.000000,  "pl": -103285.242458 }],
-      
+
 "securityposition": [ { "security": "EUR_USD", "exposure": 100000.000000, "side": "buy",
                         "price": 1.105190, "pips": 5, "pl": -12.348273 }],
 
 "timestamp": "1445952273.659753" }
-}
 ```
 ### Long:
 

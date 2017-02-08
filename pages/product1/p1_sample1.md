@@ -12,24 +12,8 @@ Arthika's algorithm currency trading platform (called ACTP) allows traders opera
 
 Before trading in these markets, users should become familiar with the platform and understand the underlying basic concepts and data model.
 
-### Table of contents
-
-[1. User Account and Accounting Units](https://github.com/Arthika/User-Manual/wiki/1.-User-Account-and-Accounting-Units) 
-
-[2. Trading Interface](https://github.com/Arthika/User-Manual/wiki/2.-Trading-Interface)
-
-[3. Orders and Trades](https://github.com/Arthika/User-Manual/wiki/3.-Orders-and-Trades)
-
-[4. Accounting Model](https://github.com/Arthika/User-Manual/wiki/4.-Accounting-Model)
-
-[5. Manual and Algorithmic Trading](https://github.com/Arthika/User-Manual/wiki/5.-Manual-and-Algorithmic-Trading)
-
-[6. Trader GUI](https://github.com/Arthika/User-Manual/wiki/6.-Trader-GUI)
-
-See as well the [REST API Reference documentation](https://github.com/Arthika/REST-API/wiki):  
-
-### Repositories for API REST sample Code:   
-#### Java
+## Repositories for API REST sample Code:   
+### Java
 
 * [REST-API-Java-Examples](https://github.com/Arthika/REST-API-Java-Examples): This repository contains entry-level examples written in Java that illustrate the use of single commands such as setting up Streaming or Polling of Prices. 
 * [REST-API-Java-Applications](https://github.com/Arthika/REST-API-Java-Applications): This repository contains complete trading applications written in Java.

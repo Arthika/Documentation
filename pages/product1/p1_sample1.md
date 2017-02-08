@@ -12,7 +12,7 @@ Arthika's algorithm currency trading platform (called ACTP) allows traders opera
 
 Before trading in these markets, users should become familiar with the platform and understand the underlying basic concepts and data model.
 
-## Repositories for API REST sample Code:   
+## REST API sample Code:   
 
 ### Java
 
@@ -34,7 +34,7 @@ Before trading in these markets, users should become familiar with the platform 
 ### PHP
 * [REST-API-PHP-Examples](https://github.com/Arthika/REST-API-PHP-Examples): Contains a PHP application that you can run from your console and sets up price streaming.
 
-### Going further:
+## Going further:
 While you are welcome to download and browse the code and documehtation that we provide in Arthika's public repositories, you will need a trading demo account. Please [contact Arthika](http://www.arthikatrading.com/contact/) if you would like to register and open a demo account.
 
 

@@ -75,7 +75,7 @@ Content-Type: application/json;charset=iso-8859-1
 
 ## setOrder()
 
-###Request: setOrder
+### Request: setOrder
 
 * **user**: 		*Required*.	Strategy login assigned by the backend administrator.
 * **token**: 		*Required*.	Token obtained during the [authentication procedure](https://github.com/Arthika/API-REST/wiki/Authentication).
@@ -111,7 +111,7 @@ Content-Type: application/json;charset=iso-8859-1
 
 ## cancelOrder()
 
-###Request: cancelOrder
+### Request: cancelOrder
 
 * **user**: 		*Required*.	Strategy login assigned by the backend administrator.
 * **token**: 		*Required*.	Token obtained during the [authentication procedure](https://github.com/Arthika/API-REST/wiki/Authentication).

@@ -1,5 +1,5 @@
 ---
-title: Manual and algorithmic trader (Product 1)
+title: Manual and algorithmic trader
 keywords: sample
 summary: "This is just a sample topic..."
 sidebar: product1_sidebar

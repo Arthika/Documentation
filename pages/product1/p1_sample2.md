@@ -73,9 +73,9 @@ Content-Type: application/json;charset=iso-8859-1
 }
 ```
 
-## setOrder()
+## Sending an order
 
-### Request: setOrder
+#### setOrder() Request: setOrder
 
 * **user**: 		*Required*.	Strategy login assigned by the backend administrator.
 * **token**: 		*Required*.	Token obtained during the [authentication procedure](https://github.com/Arthika/API-REST/wiki/Authentication).

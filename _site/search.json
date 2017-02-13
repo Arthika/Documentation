@@ -3,6 +3,116 @@
 
 
 
+{
+"title": "Algo trading page 1",
+"tags": "",
+"keywords": "sample",
+"url": "algo_trading_01.html",
+"summary": "Algo trading help page 1"
+}
+,
+
+
+
+{
+"title": "Hosted trading page 1",
+"tags": "",
+"keywords": "sample",
+"url": "algo_trading_11.html",
+"summary": "This is page 1 of the hosted trading user manual"
+}
+,
+
+
+
+{
+"title": "Hosted trading page 2",
+"tags": "",
+"keywords": "sample",
+"url": "algo_trading_12.html",
+"summary": "This is page 2 of the hosted trading user manual"
+}
+,
+
+
+
+{
+"title": "Hosted trading page 3",
+"tags": "",
+"keywords": "sample",
+"url": "algo_trading_13.html",
+"summary": "This is page 3 of the hosted trading user manual"
+}
+,
+
+
+
+{
+"title": "Hosted trading page 4",
+"tags": "",
+"keywords": "sample",
+"url": "algo_trading_14.html",
+"summary": "This is page 4 of the hosted trading user manual"
+}
+,
+
+
+
+{
+"title": "REST trading page 1",
+"tags": "",
+"keywords": "sample",
+"url": "algo_trading_21.html",
+"summary": "This is page 1 of the REST API trading user manual"
+}
+,
+
+
+
+{
+"title": "REST trading page 2",
+"tags": "",
+"keywords": "sample",
+"url": "algo_trading_22.html",
+"summary": "This is page 2 of the REST API trading user manual"
+}
+,
+
+
+
+{
+"title": "REST trading page 3",
+"tags": "",
+"keywords": "sample",
+"url": "algo_trading_23.html",
+"summary": "This is page 3 of the REST API trading user manual"
+}
+,
+
+
+
+{
+"title": "REST trading page 4",
+"tags": "",
+"keywords": "sample",
+"url": "algo_trading_24.html",
+"summary": "This is page 4 of the REST API trading user manual"
+}
+,
+
+
+
+{
+"title": "Algoritmic Trading User Manual",
+"tags": "",
+"keywords": "Forex Trading Algorithmic",
+"url": "algo_trading_landing_page.html",
+"summary": "This is a user manual for algorithmic trading"
+}
+,
+
+
+
 
 
 {
@@ -405,7 +515,7 @@
 "title": "Scroll layout",
 "tags": "special_layouts",
 "keywords": "json, scrolling, scrollto, jquery plugin",
-"url": "mydoc_scroll.html",
+"url": "jsmydoc_scroll.html",
 "summary": "This page demonstrates how you the integration of a script called ScrollTo, which is used here to link definitions of a JSON code sample to a list of definitions for that particular term. The scenario here is that the JSON blocks are really long, with extensive nesting and subnesting, which makes it difficult for tables below the JSON to adequately explain the term in a usable way."
 }
 ,
@@ -416,7 +526,7 @@
 "title": "Scroll layout",
 "tags": "special_layouts",
 "keywords": "json, scrolling, scrollto, jquery plugin",
-"url": "jsmydoc_scroll.html",
+"url": "mydoc_scroll.html",
 "summary": "This page demonstrates how you the integration of a script called ScrollTo, which is used here to link definitions of a JSON code sample to a list of definitions for that particular term. The scenario here is that the JSON blocks are really long, with extensive nesting and subnesting, which makes it difficult for tables below the JSON to adequately explain the term in a usable way."
 }
 ,
@@ -677,7 +787,7 @@
 
 
 {
-"title": "Sample 1 Topic (Product 1)",
+"title": "Primer (User Manual)",
 "tags": "",
 "keywords": "sample",
 "url": "p1_sample1.html",
@@ -688,7 +798,7 @@
 
 
 {
-"title": "Sample 2 Topic (Product 1)",
+"title": "Manual and algorithmic trader",
 "tags": "",
 "keywords": "sample",
 "url": "p1_sample2.html",
@@ -918,6 +1028,25 @@
 
 
 
+{
+"title": "Primer (User Manual)",
+"tags": "",
+"keywords": "sample",
+"url": "primer_landing_page.html",
+"summary": "This is an ATK primer"
+}
+,
+
+
+
+{
+"title": "Primer (User Manual)",
+"tags": "",
+"keywords": "sample",
+"url": "primer_landing_page.md",
+"summary": "This is an ATK primer"
+}
+,
 
 
 
@@ -951,6 +1080,20 @@
 
 
 
+
+
+
+
+
+
+{
+"title": "",
+"tags": "",
+"keywords": "",
+"url": "test.html",
+"summary": ""
+}
+,
 
 
 

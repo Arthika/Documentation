@@ -14,7 +14,11 @@ topnav_dropdowns:
       folderitems:
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
-        - title: ACT Forex Primer
+        - title: Product 1
           url: /p1_landing_page.html
         - title: Product 2
           url: /p2_landing_page.html
+        - title: Forex Primer
+          url: /primer_landing_page.html
+        - title: Algorithmic Trading
+          url: /algo_trading_landing_page.html

@@ -1,0 +1,73 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Algorithmic Trading
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Getting Started
+    output: web, pdf
+    folderitems:
+    - title: Getting started page 0
+      url: /algo_trading_landing_page.html
+      output: web
+
+    - title: Getting started page 1
+      url: /algo_trading_01.html
+      output: web, pdf
+
+  - title: Hosted trading
+    output: web, pdf
+
+    folderitems:
+    - title: Hosted Trading page 1
+      url: /algo_trading_11.html
+      output: web, pdf
+
+    - title: Hosted Trading page 2
+      url: /algo_trading_12.html
+      output: web, pdf
+
+    - title: Hosted Trading page 3
+      url: /algo_trading_13.html
+      output: web, pdf
+
+    - title: Hosted Trading page 4
+      url: /algo_trading_14.html
+      output: web, pdf
+
+  - title: REST trading
+    output: web, pdf
+
+    folderitems:
+
+    - title: REST Trading page 1
+      url: /algo_trading_21.html
+      output: web, pdf
+
+    - title: REST Trading page 2
+      url: /algo_trading_22.html
+      output: web, pdf
+
+    - title: REST Trading page 3
+      url: /algo_trading_23.html
+      output: web, pdf
+
+    - title: REST Trading page 4
+      url: /algo_trading_24.html
+      output: web, pdf
